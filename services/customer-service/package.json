@@ -1,0 +1,29 @@
+{
+  "name": "customer-service",
+  "version": "1.0.0",
+  "description": "customer microservi for digital banking project",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delad3m/banking-cloud-platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/delad3m/banking-cloud-platform/issues"
+  },
+  "homepage": "https://github.com/delad3m/banking-cloud-platform#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "pg": "^8.16.3"
+  }
+}
